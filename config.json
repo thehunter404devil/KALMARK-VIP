@@ -77,7 +77,7 @@
     },
     "APPSTATEPATH": "appstate.json",
     "FCAOption": {
-        "forceLogin": true,
+        "forceLogin": false,
         "listenEvents": true,
         "pauseLog": true,
         "logLevel": "error",
